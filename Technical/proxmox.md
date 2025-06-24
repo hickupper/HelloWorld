@@ -2,7 +2,7 @@
 
 ## 🧾 Host Information
 - **Hostname**:  
-- **IP Address**:  
+- **IP Address**:  10.10.2.30:8006
 - **Location**:  
 - **Proxmox Version**:  
 - **CPU Model**:  
@@ -80,3 +80,6 @@
 - **System Alerts / Monitoring Tools**:  
 - **Future Upgrade Plans**:  
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTM3OTE4OTM3OV19
+-->
