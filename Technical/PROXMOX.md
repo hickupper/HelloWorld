@@ -4,7 +4,7 @@
 - **Hostname**:  
 - **IP Address**:  10.10.2.30:8006
 - **Location**:  
-- **Proxmox Version**:  
+- **Version**:  
 - **CPU Model**:  
 - **CPU Cores / Threads**:  
 - **Total RAM**:  
@@ -81,5 +81,5 @@
 - **Future Upgrade Plans**:  
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTE4OTM3OV19
+eyJoaXN0b3J5IjpbMTU3NTE0NDY5MF19
 -->
